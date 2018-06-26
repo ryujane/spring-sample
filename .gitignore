@@ -1,0 +1,25 @@
+*.class
+
+#maven ignore
+target/
+
+#package file
+*.war
+*.ear
+
+#eclipse ignore
+.settings/
+.project
+.classpatch
+
+#idea
+.idea/
+/idea/
+*.ipr
+*.iml
+*.iws
+
+# IntelliJ
+out/
+# temp file
+*.log
